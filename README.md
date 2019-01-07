@@ -43,3 +43,6 @@ From this information, one of the list items might look like this:
 
 
 > Jane Cruz's favorite movie is Planet Earth 1.
+
+
+![screenshot](src/img/screenshot.png)
